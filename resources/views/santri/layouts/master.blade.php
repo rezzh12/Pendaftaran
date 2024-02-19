@@ -1,0 +1,5 @@
+@include('santri.layouts.header')
+@include('santri.layouts.navbar')
+@include('santri.layouts.sidebar')
+@include('santri.layouts.content')
+@include('santri.layouts.footer')
